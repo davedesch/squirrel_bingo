@@ -1,0 +1,90 @@
+body {
+    background-color: rgb(237, 246, 255);
+    height: 80%;
+}
+
+img {
+    height: 45px;
+}
+
+td {
+float: left;
+width: 110px;
+height: 110px;
+line-height: normal;
+vertical-align: middle;
+display: block;
+overflow: hidden;
+background-color: #0074D9;
+margin-right: 3px;
+margin-top: 1px;
+}
+
+h1 {
+    font-family: 'ABeeZee', sans-serif;
+    text-align: left;
+    color: rgb(0, 32, 60);
+    font-size: 36px;
+    margin: 1%;
+    vertical-align: middle;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0%;
+}
+
+td.bingoboard {
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-size: 80%;
+    line-height: 2em;
+}
+
+
+td.cellheader {
+    background-color: #EDF6FF;
+    border: solid 004077;
+    height: 60px;
+    font-weight: bolder;
+    border-color: 004077;
+    text-align: center;
+    font-family: 'ABeeZee', sans-serif;
+    font-size: 50px;
+    margin-top: 3%;
+    color: rgb(0, 116, 217);
+    text-shadow: 2px 2px 0 #3a50d9;
+}
+
+td.freespace {
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-size: 150%;
+    line-height: 2em;
+    font-weight: bold;
+}
+
+img#squirrelmarker {
+    height: 170px;
+    margin-top: -25%;
+    margin-left: -25%;
+    -webkit-filter: invert(100%);
+}
+
+button#newcardbutton {
+background: #0074D9;
+border-radius: 0px;
+color: white;
+font-size: 22px;
+font-family: Lato, sans-serif;
+text-decoration: none;
+vertical-align: middle;
+width: 20%;
+border-style: solid;
+border-color: rgb(0, 116, 217);
+}
