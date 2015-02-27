@@ -14,3 +14,5 @@ Then, in the Command Line
 - bundle exec shotgun
 
 Run it on your local host and play along!
+
+Otherwise, you can play it on Heroku!
